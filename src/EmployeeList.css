@@ -1,0 +1,17 @@
+/* EmployeeList.css */
+.search-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+  }
+  
+  .search-container input,
+  .search-container button {
+    flex: 1;
+    min-width: 200px;
+  }
+  
+  .table-container {
+    margin-top: 20px;
+  }
+  
